@@ -19,15 +19,15 @@ const DEFAULT_IMAGES = [
     alt: 'Contemporary art'
   },
   {
-    src: 'https://images.unsplash.com/photo-1745965976680-d00be7dc0377?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    src: 'Images/D5.jpg',
     alt: 'Geometric pattern'
   },
   {
-    src: 'https://images.unsplash.com/photo-1752588975228-21f44630bb3c?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    src: 'Images/D6.jpg',
     alt: 'Textured surface'
   },
   {
-    src: 'https://pbs.twimg.com/media/Gyla7NnXMAAXSo_?format=jpg&name=large',
+    src: 'Images/D7.jpg',
     alt: 'Social media image'
   }
 ];
